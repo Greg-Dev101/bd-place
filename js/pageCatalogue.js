@@ -51,7 +51,7 @@ function getSeriesById(parama) {
   return series.get(parama)
 };
 
-for (let i = 1; i <= 600; i++) {
+for (let i = 1; i <= 632; i++) {
 
   let j = `${i}`;
   let searchId = albums.has(j)
